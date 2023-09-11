@@ -7,7 +7,7 @@ https://scrimba.com/
 3. Ability to like and unlike a tweet
 4. Ability to retweet and unretweet
 
-## New functions added by me
+## New functions added by me (Sep 10, 2023)
 1. Ability to delete a tweet that belongs to self
 2. Save tweets and blockedlist to localstorage
 3. Ability to block all tweets from a certain user
