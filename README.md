@@ -1,6 +1,9 @@
 # Project from Scrimba: Twitter Clone Specific
 https://scrimba.com/
 
+## Link to Application:
+https://endearing-nasturtium-6fda6a.netlify.app/
+
 ## existing functions
 1. Ability to tweet
 2. Ability to view the replies and number of it
